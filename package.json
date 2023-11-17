@@ -16,14 +16,14 @@
 	"author": "Donut Team",
 	"license": "MIT",
 	"type": "module",
-	"dependencies": {
-		"@donutteam/string-utilities": "^1.4.0"
-	},
 	"peerDependencies": {
 		"@fritter/core": "0.x"
 	},
 	"devDependencies": {
 		"rimraf": "^5.0.5",
 		"typescript": "^5.2.2"
+	},
+	"dependencies": {
+		"@donutteam/utilities": "^1.1.0"
 	}
 }

@@ -2,7 +2,7 @@
 // Imports
 //
 
-import { isLocalIpAddress } from "@donutteam/string-utilities";
+import { isLocalIpAddress } from "@donutteam/utilities";
 import { FritterMiddlewareFunction } from "@fritter/core";
 
 //

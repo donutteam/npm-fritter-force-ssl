@@ -2,6 +2,7 @@
 
 * Removed `eslint` and `@donutteam/eslint-config` dependencies.
 * Moved `@fritter/core` to peer dependencies.
+* Replaced deprecated `@donutteam/string-utilities` dependency with `@donutteam/utilities` dependency.
 
 ## 1.0.2
 Updating packages.
