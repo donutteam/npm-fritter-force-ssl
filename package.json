@@ -21,9 +21,9 @@
 	},
 	"devDependencies": {
 		"rimraf": "^5.0.5",
-		"typescript": "^5.2.2"
+		"typescript": "^5.3.3"
 	},
 	"dependencies": {
-		"@donutteam/utilities": "^1.1.0"
+		"@donutteam/utilities": "^2.2.2"
 	}
 }
